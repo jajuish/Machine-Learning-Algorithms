@@ -6,3 +6,5 @@ Each folder is named after an algorithm.
 Each folder contains:
 - a Jupyter Notebook with the algorithm tried out on datasets
 - a PDF explaining everything
+
+The exercises are done using python libraries **pandas**, **sklearn**, **matplotlib.pyplot**.
